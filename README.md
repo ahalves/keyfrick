@@ -18,3 +18,9 @@ Made the PCB look nice, though I haven't routed traces yet :pf:
 Routed traces
 
 <img width="1226" height="441" alt="image" src="https://github.com/user-attachments/assets/b964c1ea-63e8-4c03-8e9f-3c13a846f051" />
+
+## 14 November 2025 - 5 minutes
+
+Added fills and tidied up footprints (_aesthetics_ ✨)
+
+<img width="1253" height="468" alt="image" src="https://github.com/user-attachments/assets/95df7880-5bea-467e-bf57-d7d3493bb7f6" />
