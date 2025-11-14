@@ -24,3 +24,9 @@ Routed traces
 Added fills and tidied up footprints (_aesthetics_ ✨)
 
 <img width="1253" height="468" alt="image" src="https://github.com/user-attachments/assets/95df7880-5bea-467e-bf57-d7d3493bb7f6" />
+
+## 14 November 2025 - 10 minutes
+
+I realised its probably better to have the MCU pointing up, so I rearranged and rerouted it.
+
+<img width="1225" height="462" alt="image" src="https://github.com/user-attachments/assets/bb2759fb-a4fe-4f12-980e-d41b5d19efc1" />
