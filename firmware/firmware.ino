@@ -59,6 +59,11 @@ uint8_t readChord() {
 void loop() {
   uint8_t currentState = readChord();
 
+  digitalWrite(led1, (currentState & 0b1000) ? HIGH : LOW);
+  digitalWrite(led2, (currentState & 0b0100) ? HIGH : LOW);
+  digitalWrite(led3, (currentState & 0b0010) ? HIGH : LOW);
+  digitalWrite(led4, (currentState & 0b0001) ? HIGH : LOW);
+
   if (currentState != lastState) lastChangeTime = millis();
 
   if (millis() - lastChangeTime > debounce) {
